@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "role": "Web Developer Intern",
+        "organisation": "Nexus Info",
+        "startDate": "Jan 27, 2024",
+        "endDate": "Feb 27, 2024",
+        "location": "Coimbatore, Tamil Nadu",
+        "experiences": [
+            "Build frontend of hotel management site locally",
+            "Build a demo website having functionality both frontend and backend"
+        ],
+        "imageSrc": "nexus.png"
+    },
+    {
+        "id": 2,
+        "role": "Software Engineer Intern",
+        "organisation": "Saytum Technologies Private Limited",
+        "startDate": "Apr 25, 2024",
+        "endDate": "Present",
+        "location": "Bhilai, Chhattisgarh",
+        "experiences": [
+            "Redesign and deployed the frontend of their website",
+            "Debugging & Testing their website and bugfixing"
+        ],
+        "imageSrc": "Saytum.png"
+    }
+]
