@@ -17,14 +17,14 @@
         "key" : 3,
         "title" : "Frontend Hotel Management Site",
         "imageSrc" : "management.png",
-        "description" : "This project is made with Mern Stack Applications,",
+        "description" : "This project is made with Html,Css & Js,",
         "source" : "https://github.com/Anubhav-2004/Frontend-Hotel-Management-Site.git"
     },
     {
         "key" : 4,
         "title" : "Demo Website",
         "imageSrc" : "ux.png",
-        "description" : "This project is made with Mern Stack Applications,",
+        "description" : "This project is made with Html,Css & Js,",
         "source" : "https://github.com/Anubhav-2004/Software-Demo-Website.git"
     }
 ]
